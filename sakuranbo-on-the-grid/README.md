@@ -1,1 +1,3 @@
-# Sakuranbo on the grid
+# Sakuranbo on the grid (WIP)
+
+TODO: Split into functions
