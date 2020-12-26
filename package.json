@@ -1,0 +1,23 @@
+{
+  "name": "motion-graphics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexKwonIsAwesome/motion-graphics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexKwonIsAwesome/motion-graphics/issues"
+  },
+  "homepage": "https://github.com/alexKwonIsAwesome/motion-graphics#readme",
+  "devDependencies": {
+    "cssnano": "^4.1.10"
+  }
+}
